@@ -34,7 +34,8 @@ This is a preliminary attempt to use the pecuzal_embedding package to perform Pe
 
 
 ## Dependencies
-All notebooks are self-contained, with the exception of 'advanced_plotting', which requires the download of 'DATAFILES' to be able to generate the Map-based plots. 
+All notebooks are self-contained, with the exception of 'advanced_plotting', which requires the download of 'DATAFILES' to be able to generate the Map-based plots.  
+Required packages can be installed through 'requirements.txt'.
 
 ## Miscellaneous 
 'PLOTS' contains all the figures produced for inclusion inside of the Final Report. 
